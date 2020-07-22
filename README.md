@@ -1,3 +1,9 @@
+
+Live Demo - http://rajeshyadav.net/test/heardotcom-code-assignment/
+
+
+
+
 Frontend developer case study
 Case study task for potential acquisition frontend developers
 
