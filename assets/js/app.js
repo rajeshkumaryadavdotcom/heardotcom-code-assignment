@@ -10,3 +10,4 @@ var dayBeforeYesterday = new Date(
 });
 // Set/append date to html element
 document.querySelector(".js-date").innerHTML = dayBeforeYesterday;
+document.querySelector(".js-date-mobile").innerHTML = dayBeforeYesterday;

@@ -103,7 +103,8 @@ header {
   height: 50px;
 }
 /********* Main Content Styles **********/
-.js-date {
+.js-date,
+.js-date-mobile {
   font-weight: bold;
 }
 .user-info {
@@ -126,7 +127,8 @@ header {
 }
 .user-type,
 .ad-text-info,
-.js-date {
+.js-date,
+.js-date-mobile {
   color: #cccccc;
 }
 .ad-block {
